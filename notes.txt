@@ -1,0 +1,1 @@
+Note to self: Look into learning basic Python and how APIs work next month.
